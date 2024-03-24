@@ -1,4 +1,4 @@
-Unix Shell Implementation
+# Unix Shell Implementation
 
 The shell allows users to execute simple commands such as: 'exit', 'cd', 'bglist' (background list), 'estatus', and 'history'.
 
